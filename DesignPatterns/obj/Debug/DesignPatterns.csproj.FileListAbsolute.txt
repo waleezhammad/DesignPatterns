@@ -1,0 +1,6 @@
+D:\github\Repos\designpatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+D:\github\Repos\designpatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+D:\github\Repos\designpatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+D:\github\Repos\designpatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojResolveAssemblyReference.cache
+D:\github\Repos\designpatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+D:\github\Repos\designpatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb

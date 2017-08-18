@@ -1,0 +1,5 @@
+D:\github\Repos\designpatterns\AdapterPattern\bin\Debug\AdapterPattern.dll
+D:\github\Repos\designpatterns\AdapterPattern\bin\Debug\AdapterPattern.pdb
+D:\github\Repos\designpatterns\AdapterPattern\obj\Debug\AdapterPattern.csprojResolveAssemblyReference.cache
+D:\github\Repos\designpatterns\AdapterPattern\obj\Debug\AdapterPattern.dll
+D:\github\Repos\designpatterns\AdapterPattern\obj\Debug\AdapterPattern.pdb
