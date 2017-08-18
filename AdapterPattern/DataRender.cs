@@ -11,7 +11,7 @@ namespace AdapterPattern
     public class DataRender 
     {
         private IDataAdapter _dataAdapter;
-        public DataRender(IDataAdapter dataAdapter )
+        public DataRender(IDbDataAdapter dataAdapter )
         {
             _dataAdapter = dataAdapter;
         }
