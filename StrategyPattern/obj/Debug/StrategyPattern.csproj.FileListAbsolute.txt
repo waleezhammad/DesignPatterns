@@ -1,0 +1,5 @@
+D:\github\Repos\designpatterns\StrategyPattern\bin\Debug\StrategyPattern.dll
+D:\github\Repos\designpatterns\StrategyPattern\bin\Debug\StrategyPattern.pdb
+D:\github\Repos\designpatterns\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
+D:\github\Repos\designpatterns\StrategyPattern\obj\Debug\StrategyPattern.dll
+D:\github\Repos\designpatterns\StrategyPattern\obj\Debug\StrategyPattern.pdb

@@ -11,6 +11,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPattern.Tests", "Ada
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AdapterPatterns", "AdapterPatterns", "{1452F9A4-0F02-409C-855C-F21A63392881}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StrategyPattern", "StrategyPattern", "{BD05DDB4-F2C4-4801-8F71-B6B2985FCD10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern", "StrategyPattern\StrategyPattern.csproj", "{339A6EC2-8903-4556-AF10-54F4EF37C549}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StratgeyPattern.Tests", "StratgeyPattern.Tests\StratgeyPattern.Tests.csproj", "{E375E91B-17FD-47F3-A6C5-843D745126EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +35,14 @@ Global
 		{585AFCE2-5EDB-4F9F-90C5-1DE15B1C1097}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{585AFCE2-5EDB-4F9F-90C5-1DE15B1C1097}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{585AFCE2-5EDB-4F9F-90C5-1DE15B1C1097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{339A6EC2-8903-4556-AF10-54F4EF37C549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{339A6EC2-8903-4556-AF10-54F4EF37C549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{339A6EC2-8903-4556-AF10-54F4EF37C549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{339A6EC2-8903-4556-AF10-54F4EF37C549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E375E91B-17FD-47F3-A6C5-843D745126EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E375E91B-17FD-47F3-A6C5-843D745126EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E375E91B-17FD-47F3-A6C5-843D745126EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E375E91B-17FD-47F3-A6C5-843D745126EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,5 +50,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{8B116EE7-47C1-452F-BD6F-EE2010217759} = {1452F9A4-0F02-409C-855C-F21A63392881}
 		{585AFCE2-5EDB-4F9F-90C5-1DE15B1C1097} = {1452F9A4-0F02-409C-855C-F21A63392881}
+		{339A6EC2-8903-4556-AF10-54F4EF37C549} = {BD05DDB4-F2C4-4801-8F71-B6B2985FCD10}
+		{E375E91B-17FD-47F3-A6C5-843D745126EA} = {BD05DDB4-F2C4-4801-8F71-B6B2985FCD10}
 	EndGlobalSection
 EndGlobal

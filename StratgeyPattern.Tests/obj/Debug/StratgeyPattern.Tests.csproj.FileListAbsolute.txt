@@ -1,0 +1,8 @@
+D:\github\Repos\designpatterns\StratgeyPattern.Tests\obj\Debug\StratgeyPattern.Tests.csprojResolveAssemblyReference.cache
+D:\github\Repos\designpatterns\StratgeyPattern.Tests\bin\Debug\StratgeyPattern.Tests.dll
+D:\github\Repos\designpatterns\StratgeyPattern.Tests\bin\Debug\StratgeyPattern.Tests.pdb
+D:\github\Repos\designpatterns\StratgeyPattern.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\github\Repos\designpatterns\StratgeyPattern.Tests\bin\Debug\StrategyPattern.dll
+D:\github\Repos\designpatterns\StratgeyPattern.Tests\bin\Debug\StrategyPattern.pdb
+D:\github\Repos\designpatterns\StratgeyPattern.Tests\obj\Debug\StratgeyPattern.Tests.dll
+D:\github\Repos\designpatterns\StratgeyPattern.Tests\obj\Debug\StratgeyPattern.Tests.pdb
