@@ -1,0 +1,8 @@
+D:\github\Repos\designpatterns\FlyWeightPattern.Tests\bin\Debug\FlyWeightPattern.Tests.dll
+D:\github\Repos\designpatterns\FlyWeightPattern.Tests\bin\Debug\FlyWeightPattern.Tests.pdb
+D:\github\Repos\designpatterns\FlyWeightPattern.Tests\bin\Debug\FlyWeightPattern.dll
+D:\github\Repos\designpatterns\FlyWeightPattern.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\github\Repos\designpatterns\FlyWeightPattern.Tests\bin\Debug\FlyWeightPattern.pdb
+D:\github\Repos\designpatterns\FlyWeightPattern.Tests\obj\Debug\FlyWeightPattern.Tests.csprojResolveAssemblyReference.cache
+D:\github\Repos\designpatterns\FlyWeightPattern.Tests\obj\Debug\FlyWeightPattern.Tests.dll
+D:\github\Repos\designpatterns\FlyWeightPattern.Tests\obj\Debug\FlyWeightPattern.Tests.pdb

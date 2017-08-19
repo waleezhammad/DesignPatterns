@@ -1,0 +1,5 @@
+D:\github\Repos\designpatterns\FlyWeightPattern\bin\Debug\FlyWeightPattern.dll
+D:\github\Repos\designpatterns\FlyWeightPattern\bin\Debug\FlyWeightPattern.pdb
+D:\github\Repos\designpatterns\FlyWeightPattern\obj\Debug\FlyWeightPattern.csprojResolveAssemblyReference.cache
+D:\github\Repos\designpatterns\FlyWeightPattern\obj\Debug\FlyWeightPattern.dll
+D:\github\Repos\designpatterns\FlyWeightPattern\obj\Debug\FlyWeightPattern.pdb
