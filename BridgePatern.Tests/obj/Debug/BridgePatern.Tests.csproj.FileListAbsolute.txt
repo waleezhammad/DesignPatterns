@@ -1,0 +1,8 @@
+D:\github\Repos\designpatterns\BridgePatern.Tests\obj\Debug\BridgePatern.Tests.csprojResolveAssemblyReference.cache
+D:\github\Repos\designpatterns\BridgePatern.Tests\bin\Debug\BridgePatern.Tests.dll
+D:\github\Repos\designpatterns\BridgePatern.Tests\bin\Debug\BridgePatern.Tests.pdb
+D:\github\Repos\designpatterns\BridgePatern.Tests\bin\Debug\BridgePattern.dll
+D:\github\Repos\designpatterns\BridgePatern.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\github\Repos\designpatterns\BridgePatern.Tests\bin\Debug\BridgePattern.pdb
+D:\github\Repos\designpatterns\BridgePatern.Tests\obj\Debug\BridgePatern.Tests.dll
+D:\github\Repos\designpatterns\BridgePatern.Tests\obj\Debug\BridgePatern.Tests.pdb

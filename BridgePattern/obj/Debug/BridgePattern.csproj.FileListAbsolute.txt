@@ -1,0 +1,5 @@
+D:\github\Repos\designpatterns\BridgePattern\bin\Debug\BridgePattern.dll
+D:\github\Repos\designpatterns\BridgePattern\bin\Debug\BridgePattern.pdb
+D:\github\Repos\designpatterns\BridgePattern\obj\Debug\BridgePattern.csprojResolveAssemblyReference.cache
+D:\github\Repos\designpatterns\BridgePattern\obj\Debug\BridgePattern.dll
+D:\github\Repos\designpatterns\BridgePattern\obj\Debug\BridgePattern.pdb

@@ -1,0 +1,9 @@
+D:\github\Repos\designpatterns\FacadePattern\bin\Debug\FacadePattern.dll
+D:\github\Repos\designpatterns\FacadePattern\bin\Debug\FacadePattern.pdb
+D:\github\Repos\designpatterns\FacadePattern\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\github\Repos\designpatterns\FacadePattern\bin\Debug\Lucene.Net.dll
+D:\github\Repos\designpatterns\FacadePattern\bin\Debug\Lucene.Net.pdb
+D:\github\Repos\designpatterns\FacadePattern\bin\Debug\Lucene.Net.xml
+D:\github\Repos\designpatterns\FacadePattern\obj\Debug\FacadePattern.csprojResolveAssemblyReference.cache
+D:\github\Repos\designpatterns\FacadePattern\obj\Debug\FacadePattern.dll
+D:\github\Repos\designpatterns\FacadePattern\obj\Debug\FacadePattern.pdb
