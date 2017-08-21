@@ -1,0 +1,8 @@
+D:\github\Repos\designpatterns\BuilderPatter.Tests\obj\Debug\BuilderPatter.Tests.csprojResolveAssemblyReference.cache
+D:\github\Repos\designpatterns\BuilderPatter.Tests\bin\Debug\BuilderPatter.Tests.dll
+D:\github\Repos\designpatterns\BuilderPatter.Tests\bin\Debug\BuilderPatter.Tests.pdb
+D:\github\Repos\designpatterns\BuilderPatter.Tests\bin\Debug\BuilderPattern.dll
+D:\github\Repos\designpatterns\BuilderPatter.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\github\Repos\designpatterns\BuilderPatter.Tests\bin\Debug\BuilderPattern.pdb
+D:\github\Repos\designpatterns\BuilderPatter.Tests\obj\Debug\BuilderPatter.Tests.dll
+D:\github\Repos\designpatterns\BuilderPatter.Tests\obj\Debug\BuilderPatter.Tests.pdb

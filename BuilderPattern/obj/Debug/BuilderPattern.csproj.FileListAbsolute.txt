@@ -1,0 +1,5 @@
+D:\github\Repos\designpatterns\BuilderPattern\obj\Debug\BuilderPattern.csprojResolveAssemblyReference.cache
+D:\github\Repos\designpatterns\BuilderPattern\bin\Debug\BuilderPattern.dll
+D:\github\Repos\designpatterns\BuilderPattern\bin\Debug\BuilderPattern.pdb
+D:\github\Repos\designpatterns\BuilderPattern\obj\Debug\BuilderPattern.dll
+D:\github\Repos\designpatterns\BuilderPattern\obj\Debug\BuilderPattern.pdb
